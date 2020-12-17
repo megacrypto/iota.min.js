@@ -1,0 +1,14 @@
+{
+  "name": "iota.ming.js",
+  "version": "1.0.0",
+  "description": "Browserified version of IOTA's JavaScript SDK",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Megacrypto",
+  "license": "ISC",
+  "dependencies": {
+    "@iota/core": "^1.0.0-beta.30"
+  }
+}
