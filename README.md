@@ -3,5 +3,8 @@ A JavaScript Browserified version of @iota/core with simplified functions for we
 
 ## Installation
 
+For browser use, simply reference the iota.min.js file in the main directory and use it in your files.
+
+** There will be a cdnjs option available soon!
 
 ## Functions
